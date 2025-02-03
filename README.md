@@ -1,0 +1,1 @@
+An Interactive Job Insights Dashboard built with Streamlit, designed to analyze job trends, market demand, and in-demand skills. This tool enables real-time data filtering and visualization, helping users gain valuable career insights.
